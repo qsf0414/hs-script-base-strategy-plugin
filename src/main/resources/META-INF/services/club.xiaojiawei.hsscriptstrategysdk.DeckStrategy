@@ -3,3 +3,4 @@ club.xiaojiawei.hsscriptbasestrategy.strategy.HsSurrenderDeckStrategy
 club.xiaojiawei.hsscriptbasestrategy.strategy.HsRadicalDeckStrategy
 club.xiaojiawei.hsscriptbasestrategy.strategy.HsMCTSDeckStrategy
 club.xiaojiawei.hsscriptbasestrategy.strategy.HsOnlyFaceDeckStrategy
+club.xiaojiawei.hsscriptbasestrategy.strategy.HsBoxFollowDeckStrategy
